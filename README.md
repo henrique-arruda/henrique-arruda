@@ -12,7 +12,7 @@ na área de tecnologia, me formei em Análise e desenvolvimento de sistemas e me
 <div>
   <a href="https://github.com/henrique-arruda">
   <img height="180em"   src="https://github-readme-stats.vercel.app/api?username=henrique-arruda&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-arruda&&layout=compact&hide=shell&theme=dracula"/>
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-arruda&&layout=compact&hide=shell&theme=dark"/>
 <div  align="center"> 
 
  <div style="display: inline_block"><br>
