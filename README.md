@@ -1,6 +1,6 @@
 ## Olá galera! :purple_heart: 
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gelzieny&repo=Gelzieny&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=henrique-arruda&repo=henrique-arruda&countColorcountColor)
 
 Estudo Tecnologia e sou apaixonado por ela, no momento estou fazendo um Bootcamp de ReactJS pela RockeatSeat.
 
