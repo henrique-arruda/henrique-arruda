@@ -1,7 +1,5 @@
 ## Olá galera! :purple_heart: 
 
-<img align="right" src="https://github.com/Gelzieny/gelzieny/blob/main/imagens/user.png?raw=true" width="300"/>
-
 <h1 align="center">Henrique Arruda de Oliveira</h1>
 
 Estudo Tecnologia e sou apaixonado por ela, no momento estou fazendo um Bootcamp de ReactJS pela RockeatSeat.
