@@ -2,11 +2,11 @@
 
 <h1 align="center">Henrique Arruda de Oliveira</h1>
 
-Estudo Tecnologia e sou apaixonado por ela, no momento estou fazendo um Bootcamp de ReactJS pela RockeatSeat.
-
- No momento estou em busca da minha primeira oportunidade na área de tecnologia.
+<h4 align="center"> 
+   Estudo Tecnologia e sou apaixonado por ela, no momento estou fazendo um Bootcamp de ReactJS pela RockeatSeat, no momento estou em busca da minha primeira oportunidade
+na área de tecnologia, me formei em Análise e desenvolvimento de sistemas e meu proximo nível é entrar na faculdade e fazer minha pós graduação em Machine Learning.
  
- Me formei em Análise e desenvolvimento de sistemas e meu proximo nível é entrar na faculdade e fazer minha pós graduação em Machine Learning.
+ </h4>
  
  Email: henrique.arruda@hotmail.com :space_invader:
  
