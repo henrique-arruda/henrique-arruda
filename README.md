@@ -8,7 +8,6 @@ na área de tecnologia, me formei em Análise e desenvolvimento de sistemas e me
  
  </h4>
  
- Email: henrique.arruda@hotmail.com :space_invader:
  
 <div>
   <a href="https://github.com/henrique-arruda">
