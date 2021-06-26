@@ -1,4 +1,13 @@
 ## Olá galera! :purple_heart: 
+
+Estudo Tecnologia e sou apaixonado por ela, no momento estou fazendo um Bootcamp de ReactJS pela RockeatSeat.
+
+ No momento estou em busca da minha primeira oportunidade na área de tecnologia.
+ 
+ Me formei em Análise e desenvolvimento de sistemas e meu proximo nível é entrar na faculdade e fazer minha pós graduação em Machine Learning.
+ 
+ Email: henrique.arruda@hotmail.com :space_invader:
+ 
 <div>
   <a href="https://github.com/henrique-arruda">
   <img height="180em"   src="https://github-readme-stats.vercel.app/api?username=henrique-arruda&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
