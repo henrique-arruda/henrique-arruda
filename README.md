@@ -1,5 +1,7 @@
 ## Olá galera! :purple_heart: 
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Gelzieny&repo=Gelzieny&countColorcountColor)
+
 Estudo Tecnologia e sou apaixonado por ela, no momento estou fazendo um Bootcamp de ReactJS pela RockeatSeat.
 
  No momento estou em busca da minha primeira oportunidade na área de tecnologia.
