@@ -15,22 +15,16 @@ na área de tecnologia, me formei em Análise e desenvolvimento de sistemas e me
   <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-arruda&&layout=compact&hide=shell&theme=dracula"/>
 <div  align="center"> 
 
-  ### 🛠 Tecnologias
-
-**Estou estudando:**
-
-<p align="left">
-  <!-- HTML Icon -->
-  <img src="https://github.com/Henrique/gelzieny/blob/main/imagens/html.png?raw=true">&nbsp;
-  <!-- CSS Icon -->
-  <img src="https://github.com/Henrique/gelzieny/blob/main/imagens/css.png?raw=true">&nbsp;
-  <!-- JS Icon -->
-  <img src="https://github.com/Henrique/gelzieny/blob/main/imagens/js.png?raw=true">&nbsp;
-  <!-- React Icon -->
-  <img src="https://github.com/Henrique/gelzieny/blob/main/imagens/react.png?raw=true">&nbsp;
-  <!-- Git Icon -->
-   
-   </p>
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+</div>
   
   ##
  
