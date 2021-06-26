@@ -1,6 +1,6 @@
 ## Olá galera! :purple_heart: 
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=henrique-arruda&repo=henrique-arruda&countColorcountColor)
+<h1 align="center">Henrique Arruda de Oliveira</h1>
 
 Estudo Tecnologia e sou apaixonado por ela, no momento estou fazendo um Bootcamp de ReactJS pela RockeatSeat.
 
