@@ -3,7 +3,7 @@
 <h1 align="center">Henrique Arruda de Oliveira</h1>
 
 <h4 align="center"> 
-   Estudo Tecnologia e sou apaixonado por ela, no momento estou fazendo um Bootcamp de ReactJS pela RockeatSeat, me formei em Análise e desenvolvimento de sistemas e meu proximo nível é entrar na faculdade e fazer minha pós graduação em Machine Learning.
+   Estudo Tecnologia e sou apaixonado por ela! Estudei sobre ReactJS agora o proximo passo é estudar Angular :)
  
  </h4>
  
