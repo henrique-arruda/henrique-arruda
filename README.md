@@ -3,7 +3,7 @@
 <h1 align="center">Henrique Arruda de Oliveira</h1>
 
 <h4 align="center"> 
-   Estudo Tecnologia e sou apaixonado por ela! Estudei sobre ReactJS agora o proximo passo é estudar Angular :)
+   Estudo Tecnologia e sou apaixonado por ela! Estudei sobre ReactJS no momento estudo front-end!
  
  </h4>
  
