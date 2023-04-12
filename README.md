@@ -1,18 +1,6 @@
-## Olá galera! :purple_heart: 
+## Olá! :purple_heart: 
 
 <h1 align="center">Henrique Arruda de Oliveira</h1>
-
-<h4 align="center"> 
-   Estudo Tecnologia e sou apaixonado por ela! no momento estou estudando front-end!
- 
- </h4>
- 
- <!-- Card -->
-<div>
-  <a href="https://github.com/henrique-arruda">
-  <img height="180em"   src="https://github-readme-stats.vercel.app/api?username=henrique-arruda&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-arruda&&layout=compact&hide=shell&theme=dark"/>
-<div  align="center"> 
 
    <!-- Icons -->
  <div style="display: inline_block"><br>
