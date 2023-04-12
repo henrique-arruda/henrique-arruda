@@ -1,9 +1,5 @@
 <h1 align="center">Henrique Arruda de Oliveira</h1>
 
-<h2>Analista de sistemas, com uso de ferramentas de Metodologia Ágil, experiência como Analista de testes funcional utilizando Behavior Driven Development como técnica de teste.
-
-Hoje meu principal foco é trabalhar como Desenvolvimento Front-end, atualmente tenho experiência com testes funcionais utilizando a ferramenta JIRA e estudo JavaScript, Typescript, HTML, CSS e ReactJS, metodologia de trabalho: Lean.<h2>
-
    <!-- Icons -->
  <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
