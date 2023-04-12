@@ -1,7 +1,7 @@
 <h1 align="center">Henrique Arruda de Oliveira</h1>
 
  <!-- Icons -->
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
  
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
