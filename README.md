@@ -5,4 +5,7 @@
 
 "Você não consegue ligar os pontos olhando pra frente; você só consegue ligá-los olhando pra trás. Então você tem que confiar que os pontos se ligarão algum dia no futuro. Você tem que confiar em algo – seu instinto, destino, vida, carma, o que for. Esta abordagem nunca me desapontou, e fez toda diferença na minha vida." - Steve Jobs
 
+<!-- Animation -->
+  ![Snake animation](https://github.com/henrique-arruda/henrique-arruda/blob/output/github-contribution-grid-snake.svg)
+ 
 
